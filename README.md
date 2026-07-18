@@ -14,14 +14,20 @@ We build things that are fun, helpful or simply a little bit magical.
 
 ## Featured project
 
-### LootFloat
+### 🌊 LootFloat
 
 LootFloat is a Valheim mod that helps dropped items stay visible and recoverable by making many of them float on water.
 
-It has been tested in singleplayer and modded co-op and is available on Thunderstore.
+It has been tested in singleplayer and modded co-op.
+
+➡️ [Download LootFloat on Thunderstore](https://thunderstore.io/c/valheim/p/GoblinStudio/LootFloat/)
 
 ## Follow GoblinStudio
 
-Updates, behind-the-scenes posts and new releases are also shared through our public WhatsApp channel.
+Get updates, behind-the-scenes posts and new releases through our public WhatsApp channel.
+
+➡️ [Join the GoblinStudio WhatsApp channel](https://whatsapp.com/channel/0029Vb8VSNKAInPlxWav7R1A)
+
+---
 
 🧌 Built with curiosity, caffeine and a healthy amount of chaos.
