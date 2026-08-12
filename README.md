@@ -2,6 +2,35 @@
 
 Small, carefully tested Valheim mods with cozy ideas, practical features and a little goblin chaos.
 
+### ⌨️ Goblin Hotkey Inspector
+
+A small read-only in-game tool for finding shared BepInEx keyboard shortcuts without changing another mod's configuration.
+
+- Finds identical configured keyboard shortcuts
+- Shows shared, unique and disabled bindings
+- Includes plugin and configuration details
+- Works in the main menu and in a world
+- Client-side with no gameplay changes
+
+[View Goblin Hotkey Inspector on Thunderstore](https://thunderstore.io/c/valheim/p/GoblinStudio/GoblinHotkeyInspector/)
+
+---
+
+### 🛡️ ReadyViking
+
+A compact F8 readiness overlay for checking whether your Viking is prepared before heading out.
+
+- Active meals
+- Equipped weapon and durability
+- Rested status and remaining time
+- Compatible ammunition count
+- Inventory capacity and carried weight
+- Read-only and client-side
+
+[View ReadyViking on Thunderstore](https://thunderstore.io/c/valheim/p/GoblinStudio/ReadyViking/)
+
+---
+
 ### 🏠 Cozy Hearth
 
 A growing collection of handmade decorative furniture pieces for warmer and more welcoming Viking homes.
