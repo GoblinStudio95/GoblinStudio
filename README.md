@@ -75,6 +75,7 @@ Keeps supported dropped items from sinking by allowing them to float safely on t
 ## 🔗 Follow GoblinStudio
 
 - [GoblinStudio Website](https://goblinstudio.dev/)
+- [Email GoblinStudio](mailto:hello@goblinstudio.dev)
 - [Thunderstore](https://thunderstore.io/c/valheim/p/GoblinStudio/)
 - [Reddit](https://www.reddit.com/user/GoblinStudio/)
 - [WhatsApp Channel](https://whatsapp.com/channel/0029Vb8VSNKAInPlxWav7R1A)
