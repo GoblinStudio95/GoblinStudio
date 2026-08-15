@@ -1,3 +1,27 @@
+## 🧌 GoblinStudio
+
+A small personal workshop for cozy ideas, creative experiments, handmade Valheim mods and useful little tools — built with curiosity, care and a healthy amount of goblin chaos.
+
+## 🗺️ Current Project Map
+
+### 🌿 Published & actively maintained
+
+- **Cozy Hearth** — handmade decorative furniture for warmer Viking homes.
+- **ReadyViking** — a read-only F8 readiness overlay for meals, weapons, rested status, ammunition and inventory.
+- **Goblin Hotkey Inspector** — a read-only tool for finding shared BepInEx keyboard shortcuts.
+- **LootFloat** — keeps supported dropped items floating visibly on the water surface.
+
+### 🔨 In development
+
+- **Ewigschlag / Everstrike** — an indestructible building hammer with the full Vanilla Hammer and FineWoodPieces building menus, 573 pieces and a little pair of googly eyes.
+- **GoblinStudio Website** — the cozy home for project updates, Goblin Flat, downloads and other workshop treasures.
+
+### ✨ The GoblinStudio direction
+
+Small projects with clear ideas, careful testing and a personal touch. Some are practical tools, some are cozy decorations and some are wonderfully unnecessary goblin inventions.
+
+---
+
 ## 🧌 GoblinStudio Valheim Mods
 
 Small, carefully tested Valheim mods with cozy ideas, practical features and a little goblin chaos.
